@@ -1,0 +1,21 @@
+.ul-cont {
+  list-style-type: none;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  margin-right: 22px;
+  cursor: pointer;
+}
+
+.k {
+  display: flex;
+}
+
+.img {
+  width: 80px;
+}
+
+.h-1 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 12px;
+}

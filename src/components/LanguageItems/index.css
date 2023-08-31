@@ -1,0 +1,32 @@
+.bg-container {
+  height: 150vh;
+}
+
+.top-view {
+  background-color: #f1f5f9;
+  padding: 20px;
+  padding-left: 50px;
+}
+
+.website-logo {
+  height: 60px;
+  width: 160px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  margin-left: 60px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+}
+
+.ul-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  max-width: 80%;
+  list-style-type: none;
+}

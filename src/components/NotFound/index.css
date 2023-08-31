@@ -1,0 +1,19 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-img {
+  height: 350px;
+}
+
+.button {
+  background-color: #4656a1;
+  color: #ffffff;
+  padding: 10px;
+  width: 80px;
+  border-width: 0px;
+  border-radius: 6px;
+}
